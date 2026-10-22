@@ -1,0 +1,6 @@
+{
+  "name": "NCTB Class 6 Bangla Question Generator",
+  "description": "ষষ্ঠ শ্রেণির এনসিটিবি পাঠ্যক্রম অনুযায়ী বাংলা ও সাধারণ বিষয়ের বহু-নির্বাচনী (MCQ), সৃজনশীল (CQ) ও সংক্ষিপ্ত প্রশ্নপত্র প্রস্তুতকারক।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
